@@ -1,6 +1,6 @@
 # Flutter Burguer
 
-<img src="">
+<img src="https://github.com/lowliet64/FlutterBurger/blob/main/assets/images/flutter-buguer-green.png?raw=true">
 A new Flutter project.
 
 ## Getting Started

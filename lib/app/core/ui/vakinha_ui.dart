@@ -16,10 +16,8 @@ class VakinhaUI {
           selectedLabelStyle: textBold,
           unselectedItemColor: Colors.black,
           unselectedIconTheme:  IconThemeData(color: Colors.grey[400]),
-          )
-          
-       
-          );
+            )
+      );
 
 
     static const  TextStyle textBold = TextStyle(fontWeight: FontWeight.bold);

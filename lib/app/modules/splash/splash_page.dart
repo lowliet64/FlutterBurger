@@ -10,17 +10,14 @@ class SplashPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: const Color(0xFF140E0E),
+        color: const Color(0xff008080),
         child: Stack(
           children: [
             Align(
               alignment: Alignment.bottomCenter,
               child: SizedBox(
                 width: context.width,
-                child: Image.asset(
-                  'assets/images/lanche.png',
-                  fit: BoxFit.cover,
-                ),
+              
               ),
             ),
             Align(
@@ -30,7 +27,7 @@ class SplashPage extends StatelessWidget {
                   SizedBox(
                     height: context.heightTransformer(reducedBy: 85),
                   ),
-                  Image.asset('assets/images/logo.png'),
+                  Image.asset('assets/images/flutter-buguer.png'),
                   const SizedBox(
                     height: 60,
                   ),

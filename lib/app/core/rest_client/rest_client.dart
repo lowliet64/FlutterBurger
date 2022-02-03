@@ -11,7 +11,7 @@ class RestClient extends GetConnect {
 
 
 
-class RestclientException implements Exception{
+class RestClientException implements Exception{
   
   final int? code;
   final String message;

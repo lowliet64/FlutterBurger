@@ -1,8 +1,8 @@
 # Flutter Burguer
 
 <img src="https://github.com/lowliet64/FlutterBurger/blob/main/assets/images/flutter-buguer-green.png?raw=true">
-A new Flutter project.
 
+#Em breve descrição detalhar do projeto#
 ## Getting Started
 
 This project is a starting point for a Flutter application.

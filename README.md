@@ -4,7 +4,9 @@
 
 #Em breve descrição detalhar do projeto#
 
-<img src="https://github.com/lowliet64/FlutterBurger/blob/main/assets/examples/example1.PNG">
+<div style="display:flex;justify-content:center;align-items:center">
+  <img src="https://github.com/lowliet64/FlutterBurger/blob/main/assets/examples/example1.PNG">
+</div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.

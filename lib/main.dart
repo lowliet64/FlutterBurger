@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/get_navigation.dart';
+import 'package:vakinha_burger_mobile/app/core/bindings/application_binding.dart';
 import 'package:vakinha_burger_mobile/app/core/ui/vakinha_ui.dart';
 import 'package:vakinha_burger_mobile/app/routes/splash_router.dart';
 
@@ -17,6 +18,7 @@ class VakinhaBurgerMainApp extends StatelessWidget {
     return GetMaterialApp(
         title: 'vakinha burger',
         theme: VakinhaUI.theme,
+        initialBinding:ApplicationBinding(),
         getPages: [
                ...SplashRouter.routers,
               ...AuthRouters.routers,]);

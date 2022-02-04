@@ -3,6 +3,10 @@
 <img src="https://github.com/lowliet64/FlutterBurger/blob/main/assets/images/flutter-buguer-green.png?raw=true">
 
 #Em breve descrição detalhar do projeto#
+
+<div style="display:flex;justify-content:center;align-items:center">
+  <img src="https://github.com/lowliet64/FlutterBurger/blob/main/assets/examples/example1.PNG">
+</div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
